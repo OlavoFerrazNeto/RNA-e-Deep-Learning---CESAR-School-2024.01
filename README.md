@@ -6,3 +6,7 @@ Atividade 2.2 = https://colab.research.google.com/drive/1z0bVk5qJnrdZ-jCLs-O7Hmv
 Atividade 2.3 = https://colab.research.google.com/drive/1NQ1AeiAd62i2HUTW7LaA6e3p-iTm1BRN
 
 Atividade 2.4 = https://colab.research.google.com/drive/1Hjt9UB3WIaNU3WYvIUyMy_cdDHAWuIjw
+
+Atividade 2.5 = https://colab.research.google.com/drive/1Tpz2u51D44bOdSalGUcRTRyG2fMW2ctv
+
+Atividade 2.6 = https://colab.research.google.com/drive/15DLaP0LQdUUi-NvnoyuSKbhPdN0yENWq
