@@ -11,4 +11,5 @@ Atividade 2.5 = https://colab.research.google.com/drive/1Tpz2u51D44bOdSalGUcRTRy
 
 Atividade 2.6 = https://colab.research.google.com/drive/15DLaP0LQdUUi-NvnoyuSKbhPdN0yENWq
 
+Atividade 3.1 = https://colab.research.google.com/drive/1_r6GJyeWXYNID54xBltjVcHc2_WUG2iy
 Atividade 3.2 = https://colab.research.google.com/drive/1nhEHK3ghHLy952bSUiZYV2rprL_keDbn
